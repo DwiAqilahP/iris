@@ -6,7 +6,7 @@ from sklearn.naive_bayes import GaussianNB
 
 st.write("""
 # Aplikasi Berbasis Web untuk Mengklasifikasi Jenis BUNGA IRIS
-####Dengan metode Naive Bayes
+#### Dengan metode Naive Bayes
 Dwi Aqilah Pradita 20-044
 """
 )
